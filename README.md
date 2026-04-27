@@ -73,5 +73,6 @@
 - [GitHub Pages (сайт команды)](https://fpmi-tpmp2026.github.io/tpmp-gr13b-lab4-dt2team/)
 - [Репозиторий с кодом](https://github.com/ignatmurav/tpmp-lab4-code)
 - [GitHub Actions (CI/CD)](https://github.com/ignatmurav/tpmp-lab4-code/actions)
+- [Отчет (Google Drive)](https://docs.google.com/document/d/1Z5BitVVe7CEPjmgoJi8Ywq9a4Omn0VXo/edit?usp=sharing&ouid=101477129580752679677&rtpof=true&sd=true)
 ```
 
